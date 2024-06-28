@@ -1,0 +1,37 @@
+* {
+    background-color: royalblue;
+    color: yellow;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+.info {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+a {
+    color: limegreen;
+}
+h4 {
+    color: white;
+    font-size: 10px;
+}
+.pics {
+    margin: 0;
+    width: 250px;
+    height: 250px;
+    transition: border-radius 2s;
+}
+.pics:hover {
+    border-radius: 75%;
+}
+.Top {
+    background-color: royalblue;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+}
